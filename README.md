@@ -10,5 +10,5 @@ I am also interested in sediment transport, turbulence modelling, and data-drive
 </p>
 
 <p align="center">
-  <em>Visualization of a characteristic oscillatory flapping and mixing development in turbulent dense jet in counter-flow.</em>
+  <em>Figure: Visualization of a characteristic oscillatory flapping and mixing development in turbulent dense jet in counter-flow.</em>
 </p>
