@@ -16,3 +16,20 @@ I am also interested in sediment transport, turbulence modelling, and data-drive
     </td>
   </tr>
 </table>
+
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/concentration_field-dt2000.gif"
+             width="700"
+             alt="Concentration field development in a confined dense jet">
+        <br>
+        <em>
+          Concentration field development in a confined dense jet, measured using simultaneous PIV–PLIF.
+        </em>
+      </td>
+    </tr>
+  </table>
+</div>
