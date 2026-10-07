@@ -34,3 +34,18 @@ I am also interested in sediment transport, turbulence modelling, and data-drive
     </tr>
   </table>
 </div>
+<div align="center">
+  <table width="760">
+    <tr>
+      <td align="center">
+        <img src="assets/HD2_NB_nearfield_scalar_gradient_dual_summary_3x2.png"
+             width="700"
+             alt="Experimental and LES near-field flow structures of a non-buoyant offset jet">
+        <br>
+        <em>
+          Figure: Near-field instantaneous flow structures of a non-buoyant offset jet obtained from experiments and LES.
+        </em>
+      </td>
+    </tr>
+  </table>
+</div>
