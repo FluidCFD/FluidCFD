@@ -49,3 +49,13 @@ I am also interested in sediment transport, turbulence modelling, and data-drive
     </tr>
   </table>
 </div>
+
+
+## My Work
+
+- **Experimental fluid mechanics:** PIV, PLIF, and simultaneous PIV–PLIF measurements of turbulent dense and non-buoyant jets.
+- **Computational fluid dynamics:** RANS, LES, and DNS modelling using OpenFOAM and Nek5000.
+- **Turbulence and scalar transport:** Investigation of mixing, coherent structures, turbulent fluxes, anisotropy, and turbulent Schmidt numbers.
+- **Environmental hydraulics:** Modelling of marine outfalls, sediment transport, scour, and hydraulic structures.
+- **Scientific computing:** Development of Python, C++, and Fortran workflows for large-scale data processing, visualization, and modal analysis.
+- **Data-driven modelling:** Application of machine learning and physics-guided methods to fluid-flow reconstruction.
