@@ -12,7 +12,7 @@ I am also interested in sediment transport, turbulence modelling, and data-drive
              alt="Dense jet under counterflow conditions">
         <br>
         <em>
-          Figure: Visualization of characteristic oscillatory flapping and mixing in a turbulent dense jet under counterflow conditions.
+          Figure: Visualization of characteristic oscillatory flapping and mixing in a turbulent dense jet under counterflow conditions (https://doi.org/10.1016/j.ijheatmasstransfer.2026.129203).
         </em>
       </td>
     </tr>
